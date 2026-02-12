@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map For TumbleFeeder
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TumbleFeeder	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setFR	KEYWORD2
+setOpenDuration	KEYWORD2
+setPositions	KEYWORD2
+setLogCallback	KEYWORD2
+setDisplayCallback	KEYWORD2
+feederOpen	KEYWORD2
+feederClose	KEYWORD2
+shakeFood	KEYWORD2
+shake	KEYWORD2
+checkLeft	KEYWORD2
+checkRight	KEYWORD2
+checkFeeder	KEYWORD2
+checkInputs	KEYWORD2
+freeInputs	KEYWORD2
+handleLeftTouch	KEYWORD2
+handleRightTouch	KEYWORD2
+handleFeederTouch	KEYWORD2
+getLeftPokeCount	KEYWORD2
+getRightPokeCount	KEYWORD2
+getFeederCount	KEYWORD2
+getLeftPokeDur	KEYWORD2
+getRightPokeDur	KEYWORD2
+getLeftFeederDur	KEYWORD2
+getFR	KEYWORD2
+resetCounts	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
